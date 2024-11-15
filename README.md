@@ -12,8 +12,8 @@ In this repository, you will find:
 
 To have a look at the exercises, please look at the following links:
 
-- [Day01](https://vavarm.github.io/FunctionalProgramming/DataBricksExercises/Day_01)
-- [Day02](https://vavarm.github.io/FunctionalProgramming/DataBricksExercises/Day_02)
+- [Day01](https://vavarm.github.io/FunctionalProgramming/DatabricksExercises/Day_01)
+- [Day02](https://vavarm.github.io/FunctionalProgramming/DatabricksExercises/Day_02)
 
 ### TP
 
